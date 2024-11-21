@@ -1,6 +1,6 @@
 # 📘 Repositório de Informática
 
-Bem-vindo ao repositório de informática! Aqui você encontrará materiais e exemplos relacionados às aulas de informática, cobrindo desde a criação de planilhas até o desenvolvimento de dashboards no Power BI.
+Bem-vindo ao repositório de informática! Aqui você encontrará materiais e exemplos relacionados às aulas de informática, cobrindo desde a criação de planilhas até o desenvolvimento de dash boards e aplicativos.
 
 ## 🗂 Conteúdo das Aulas
 
@@ -10,6 +10,8 @@ Nas primeiras aulas, focamos no uso do Microsoft Excel para a manipulação e an
 - **Criação de Planilhas**: Aprendemos a criar e formatar planilhas para organizar dados de maneira eficiente.
 - **Gráficos e Tabelas**: Exploramos como visualizar dados através de gráficos e tabelas dinâmicas.
 - **Funções e Fórmulas**: Introduzimos funções essenciais, como `SOMA` e `CONT.SE`, para realizar cálculos automatizados.
+![aula 1 dados](https://github.com/user-attachments/assets/d752c0b3-d59e-4841-85e0-92f1e57ebe57)
+
   
 #### Exemplos de Fórmulas
 ```excel
