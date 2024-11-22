@@ -42,9 +42,8 @@ Após dominar o Excel, avançamos para o Power BI, onde abordamos:
 
 - `/powerapps`: Inclui aplicativo de filmes, desenvolvido pelo Power App.
 
-## Lista de Files x Diretor
+## Lista de Filmes x Diretor
 ![Power-Apps-Studio-_-Filmes-e-seus-Diretores-Google-Chrome-2024-11-21-20-48-44](https://github.com/user-attachments/assets/d8e3a540-59ab-44cb-add6-3c24876e836a)
-
 
 ## 🤝 Contribuições
 
