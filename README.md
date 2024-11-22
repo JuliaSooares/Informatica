@@ -40,10 +40,10 @@ Após dominar o Excel, avançamos para o Power BI, onde abordamos:
 - [Documentação do Excel](https://support.microsoft.com/en-us/excel)
 - [Documentação do Power BI](https://docs.microsoft.com/en-us/power-bi/)
 
-- `/powerbi-projetos`: Inclui aplicativo de filmes, desenvolvido pelo Power App.
+- `/powerapps`: Inclui aplicativo de filmes, desenvolvido pelo Power App.
 
-![Uploading Power-Apps-Studio-_-Filmes-e-seus-Diretores-Google-Chrome-2024-11-21-20-48-44.gif…]()
-
+## Lista de Files x Diretor
+![Power-Apps-Studio-_-Filmes-e-seus-Diretores-Google-Chrome-2024-11-21-20-48-44](https://github.com/user-attachments/assets/d8e3a540-59ab-44cb-add6-3c24876e836a)
 
 
 ## 🤝 Contribuições
