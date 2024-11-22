@@ -42,7 +42,8 @@ Após dominar o Excel, avançamos para o Power BI, onde abordamos:
 
 - `/powerbi-projetos`: Inclui aplicativo de filmes, desenvolvido pelo Power App.
 
-![image](https://github.com/user-attachments/assets/ae04050b-caad-4a21-8d35-3a427edb32dc)
+![Uploading Power-Apps-Studio-_-Filmes-e-seus-Diretores-Google-Chrome-2024-11-21-20-48-44.gif…]()
+
 
 
 ## 🤝 Contribuições
